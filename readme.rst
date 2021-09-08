@@ -9,7 +9,7 @@ Fiz apenas um curso da plataforma Udemy, e os cursos são tão bons que um únic
 Banco de Dados
 *******
 
-MyS
+MySQL
 
 *********
 Recursos e linguagens
