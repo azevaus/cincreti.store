@@ -10,6 +10,7 @@ Banco de Dados
 *******
 
 MySQL
+MariaDB
 
 *********
 Recursos e linguagens
